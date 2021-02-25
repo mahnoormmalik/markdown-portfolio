@@ -1,1 +1,1 @@
-![Image of Mahnoor](https://drive.google.com/file/d/1DIgkV50Fb6UdxdbxGQ1VgMrN-myYKwa-/view?usp=sharing)
+![Image of Mahnoor](https://github.com/mahnoormmalik/image/blob/main/IMG-9070.JPG?raw=true)
