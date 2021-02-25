@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Mahnoor](https://drive.google.com/file/d/1DIgkV50Fb6UdxdbxGQ1VgMrN-myYKwa-/view?usp=sharing)
