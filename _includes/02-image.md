@@ -1,1 +1,1 @@
-![Image of Mahnoor](https://github.com/mahnoormmalik/image/blob/main/IMG-9070.JPG?raw&s=100)
+<img src="https://github.com/mahnoormmalik/image/blob/main/IMG-9070.JPG?raw" width="300" >
